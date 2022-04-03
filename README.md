@@ -7,3 +7,17 @@ This is the repository for the SC1015 (Introduction to Data Science and Artifici
 # Contributors
 - Bertranne Lee Zi - Wen (@bertrainn)
 - Goh Hong Yi (@)
+
+# Problem Definition
+
+# Models Used
+1. Linear Regression
+2. Decision Tree (Regressor)
+3. Random Forest (Regressor)
+4. Gradient Boosting Regression Tree
+
+# Conclusion
+
+# What did we learn from this project?
+
+# References
