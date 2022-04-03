@@ -6,7 +6,7 @@ This is the repository for the SC1015 (Introduction to Data Science and Artifici
 
 # Contributors
 - Bertranne Lee Zi - Wen (@bertrainn)
-- Goh Hong Yi (@)
+- Goh Hong Yi (@hyhyzxc)
 
 # Problem Definition
 
@@ -19,5 +19,5 @@ This is the repository for the SC1015 (Introduction to Data Science and Artifici
 # Conclusion
 
 # What did we learn from this project?
-
+We learnt that you cannot poopoo without peepee but you can peepee without poopoo.
 # References
