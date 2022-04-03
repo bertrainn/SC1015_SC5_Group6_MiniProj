@@ -1,1 +1,1 @@
-# SC1015_SC5_Group6_MiniProj
+# SC1015 SC5 Group6 Mini Project
