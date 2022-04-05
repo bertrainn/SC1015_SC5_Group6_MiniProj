@@ -56,7 +56,7 @@ This is the repository for the SC1015 (Introduction to Data Science and Artifici
 
 ## Models Used
 1. Linear Regression
-2. Decision Tree (Regressor)
+2. Regression Tree
 3. Random Forest (Regressor)
 4. Gradient Boosting Regression Tree
 
@@ -72,8 +72,8 @@ This is the repository for the SC1015 (Introduction to Data Science and Artifici
 ## Learning Points
 * Using data visualisation tools such as matplotlib and graphviz
 * Converting categorical data to numerical data through label encoding
-* Using decision tree for regression problems 
-* New machine learning models - Random Forest and Gradient Boosting Regression Tree
+* Using decision tree for regression problems (i.e using a regressor tree)
+* Improving the accuracy of a regression tree through bagging (Random Forest) and boosting (Gradient Boosting)
 * Collaboration over Github
 
 <p align="right">(<a href="#top">back to top</a>)</p>
