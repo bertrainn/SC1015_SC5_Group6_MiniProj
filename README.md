@@ -76,7 +76,7 @@ This is the repository for the SC1015 (Introduction to Data Science and Artifici
 
 
 ## Acknowledgements
-- Professor Sourave Sen Gupta
+- Professor Sourav Sen Gupta
 - TA Zhou Shao Wen
 
 <p align="right">(<a href="#top">back to top</a>)</p>
