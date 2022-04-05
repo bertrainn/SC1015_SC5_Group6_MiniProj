@@ -67,6 +67,7 @@ This is the repository for the SC1015 (Introduction to Data Science and Artifici
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Learning Points
+* Using data visualisation tools such as matplotlib and graphviz
 * Converting categorical data to numerical data through label encoding
 * Using decision tree for regression problems 
 * New machine learning models - Random Forest and Gradient Boosting Regression Tree
