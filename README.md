@@ -59,7 +59,12 @@ Given a country's attributes (e.g GDP, Population, etc.) are we able to predict 
 ## Conclusion
 
 ## What did we learn from this project?
-We learnt that you cannot poopoo without peepee but you can peepee without poopoo.
+* Converting categorical data to numerical data through label encoding
+* Using decision tree for regression problems 
+* New machine learning models - Random Forest and Gradient Boosting Regression Tree
+* Collaboration over Github
+
+
 
 ## Acknowledgements
 - Professor Sourave Sen Gupta
@@ -70,5 +75,4 @@ We learnt that you cannot poopoo without peepee but you can peepee without poopo
 * https://www.geeksforgeeks.org/ml-label-encoding-of-datasets-in-python/
 * https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/#:~:text=Random%20forest%20is%20a%20Supervised,average%20in%20case%20of%20regression.
 * https://towardsdatascience.com/machine-learning-part-18-boosting-algorithms-gradient-boosting-in-python-ef5ae6965be4
-
 
