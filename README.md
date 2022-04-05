@@ -30,9 +30,8 @@
 
 This is the repository for the SC1015 (Introduction to Data Science and Artificial Intelligence) Mini Project for group 6 under tutorial group SC5. 
 
-## Problem Motivation
-
 ## Problem Definition
+Given a country's attributes (e.g GDP, Population, etc.) are we able to predict its suicide rate? 
 
 ## Built With
 * [Pandas](https://pandas.pydata.org/)
@@ -67,5 +66,9 @@ We learnt that you cannot poopoo without peepee but you can peepee without poopo
 - TA Zhou Shao Wen
 
 ## References
+* https://www.sos.org.sg/learn-about-suicide/quick-facts
+* https://www.geeksforgeeks.org/ml-label-encoding-of-datasets-in-python/
+* https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/#:~:text=Random%20forest%20is%20a%20Supervised,average%20in%20case%20of%20regression.
+* https://towardsdatascience.com/machine-learning-part-18-boosting-algorithms-gradient-boosting-in-python-ef5ae6965be4
 
 
