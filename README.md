@@ -63,6 +63,9 @@ This is the repository for the SC1015 (Introduction to Data Science and Artifici
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Conclusion
+* A country's suicide rate is not dependent on its age group, GDP/ Capita or generation
+* Males are more prone to committing suicide than their female counterparts
+* Random Forest has the highest accuracy and lowest RSME making it the best predictor for our problem statement
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
