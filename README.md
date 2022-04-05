@@ -59,6 +59,8 @@ This is the repository for the SC1015 (Introduction to Data Science and Artifici
 We learnt that you cannot poopoo without peepee but you can peepee without poopoo.
 
 ## Acknowledgements
+- Professor Sourave Sen Gupta
+- TA Zhou Shao Wen
 
 ## References
 
