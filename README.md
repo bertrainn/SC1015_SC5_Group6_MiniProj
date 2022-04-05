@@ -36,10 +36,14 @@ This is the repository for the SC1015 (Introduction to Data Science and Artifici
 
 ## Built With
 * [Pandas](https://pandas.pydata.org/)
+* [Numpy](https://numpy.org/)
+* [Seaborn](https://seaborn.pydata.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [Scikit-learn](https://scikit-learn.org/stable/)
 
 ## Contributors
-- Bertranne Lee Zi - Wen (@bertrainn)
-- Goh Hong Yi (@hyhyzxc)
+- [Bertranne Lee Zi - Wen](https://github.com/bertrainn)
+- [Goh Hong Yi](https://github.com/hyhyzxc)
 
 
 
@@ -51,6 +55,11 @@ This is the repository for the SC1015 (Introduction to Data Science and Artifici
 
 ## Conclusion
 
-# What did we learn from this project?
+## What did we learn from this project?
 We learnt that you cannot poopoo without peepee but you can peepee without poopoo.
-# References
+
+## Acknowledgements
+
+## References
+
+
