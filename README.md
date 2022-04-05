@@ -15,9 +15,9 @@
     <li><a href="#contributors">Contributors</a></li>
     <li><a href="#models-used">Models Used</a></li>
     <li><a href="#conclusion">Conclusion</a></li>
-    <li><a href="#license">Learning Points</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#learning-points">Learning Points</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#references">References</a></li>
   </ol>
 </details>
 
