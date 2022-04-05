@@ -70,7 +70,7 @@ Given a country's attributes (e.g GDP, Population, etc.) are we able to predict 
 ## Acknowledgements
 - Professor Sourave Sen Gupta
 - TA Zhou Shao Wen
-- <p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## References
 * https://www.sos.org.sg/learn-about-suicide/quick-facts
