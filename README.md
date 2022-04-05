@@ -41,9 +41,13 @@ This is the repository for the SC1015 (Introduction to Data Science and Artifici
 * [Matplotlib](https://matplotlib.org/)
 * [Scikit-learn](https://scikit-learn.org/stable/)
 
+## Dataset
+[Suicide Rates Overview 1985 to 2016](https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016)
+
 ## Contributors
 - [Bertranne Lee Zi - Wen](https://github.com/bertrainn)
 - [Goh Hong Yi](https://github.com/hyhyzxc)
+- Lim Wei Wen
 
 
 
