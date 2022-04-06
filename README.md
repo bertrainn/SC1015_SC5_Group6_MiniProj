@@ -12,6 +12,7 @@
         <li><a href="#dataset">Dataset</a></li>
       </ul>
     </li>
+    <li><a href="#setup">Setup</a></li>
     <li><a href="#contributors">Contributors</a></li>
     <li><a href="#models-used">Models Used</a></li>
     <li><a href="#conclusion">Conclusion</a></li>
@@ -44,6 +45,13 @@ This is the repository for the SC1015 (Introduction to Data Science and Artifici
 
 ### Dataset
 Kaggle: [Suicide Rates Overview 1985 to 2016](https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016) By Rusty
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+## Setup
+1. Run the command `pip install -r requirements.txt`
+2. Explore the `.ipynb` file
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
