@@ -80,7 +80,7 @@ This is the repository for the SC1015 (Introduction to Data Science and Artifici
 
 
 ## Acknowledgements
-Dr Sourav Sen Gupta and TA Zhou Shao Wen: Thank you for your teaching and guidence over the course of this project. Your advice was invaluable in helping us make the best project possible. 
+Dr Sourav Sen Gupta and TA Zhou Shao Wen: Thank you for your teaching and guidance over the course of this project. Your advice was invaluable in helping us make the best project possible. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
