@@ -58,7 +58,7 @@ Kaggle: [Suicide Rates Overview 1985 to 2016](https://www.kaggle.com/datasets/ru
 ## Contributors
 - [Bertranne Lee Zi - Wen](https://github.com/bertrainn) - Data Extraction, Code Refactoring, Formatting, Slides, Github and Video Creation
 - [Goh Hong Yi](https://github.com/hyhyzxc) - Data Visualisation, Data Cleaning, Machine Learning and Slides
-- Lee Wei Wen
+- Lee Wen Wei
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
